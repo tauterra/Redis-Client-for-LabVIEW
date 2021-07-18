@@ -1,0 +1,3 @@
+[submodule "lib/RESP3-for-LabVIEW"]
+	path = lib/RESP3-for-LabVIEW
+	url = https://github.com/tauterra/RESP3-for-LabVIEW.git
