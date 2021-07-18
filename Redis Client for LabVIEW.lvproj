@@ -2,6 +2,7 @@
 <Project Type="Project" LVVersion="19008000">
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="My Computer" Type="My Computer">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.tcp.enabled" Type="Bool">false</Property>
@@ -12,12 +13,12 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="lib" Type="Folder">
-			<Item Name="RESP3.lvlib" Type="Library" URL="../../RESP3 for LabVIEW/RESP3/RESP3.lvlib"/>
+			<Item Name="RESP3.lvlib" Type="Library" URL="../lib/RESP3-for-LabVIEW/RESP3/RESP3.lvlib"/>
 		</Item>
-		<Item Name="LICENSE" Type="Document" URL="../LICENSE"/>
 		<Item Name="Redis Client Examples.lvlib" Type="Library" URL="../Redis Client Examples/Redis Client Examples.lvlib"/>
 		<Item Name="Redis Client for LabVIEW.lvlib" Type="Library" URL="../Redis Client for LabVIEW/Redis Client for LabVIEW.lvlib"/>
 		<Item Name="Test Redis Client for LabVIEW.lvlib" Type="Library" URL="../Test Redis Client for LabVIEW/Test Redis Client for LabVIEW.lvlib"/>
+		<Item Name="LICENSE" Type="Document" URL="../LICENSE"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
