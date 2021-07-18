@@ -41,6 +41,17 @@
 			<Item Name="mscorlib" Type="VI" URL="mscorlib">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="RESP3 Make Value.vi" Type="VI" URL="../../RESP3 for LabVIEW/RESP3/RESP3 Make Value.vi"/>
+			<Item Name="RESP3 Make Bulk String.vi" Type="VI" URL="../../RESP3 for LabVIEW/RESP3/high-level/RESP3 Make Bulk String.vi"/>
+			<Item Name="RESP3 Get Value.vi" Type="VI" URL="../../RESP3 for LabVIEW/RESP3/RESP3 Get Value.vi"/>
+			<Item Name="RESP3 Get String.vi" Type="VI" URL="../../RESP3 for LabVIEW/RESP3/high-level/RESP3 Get String.vi"/>
+			<Item Name="RESP3 Get Type.vi" Type="VI" URL="../../RESP3 for LabVIEW/RESP3/RESP3 Get Type.vi"/>
+			<Item Name="RESP3 Make Array.vi" Type="VI" URL="../../RESP3 for LabVIEW/RESP3/high-level/RESP3 Make Array.vi"/>
+			<Item Name="RESP3 Get Integer.vi" Type="VI" URL="../../RESP3 for LabVIEW/RESP3/high-level/RESP3 Get Integer.vi"/>
+			<Item Name="RESP3 Get Double.vi" Type="VI" URL="../../RESP3 for LabVIEW/RESP3/high-level/RESP3 Get Double.vi"/>
+			<Item Name="RESP3 Get Array.vi" Type="VI" URL="../../RESP3 for LabVIEW/RESP3/high-level/RESP3 Get Array.vi"/>
+			<Item Name="RESP3 Format Message.vi" Type="VI" URL="../../RESP3 for LabVIEW/RESP3/RESP3 Format Message.vi"/>
+			<Item Name="RESP3 Make Integer.vi" Type="VI" URL="../../RESP3 for LabVIEW/RESP3/subVIs/RESP3 Make Integer.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
