@@ -11,4 +11,6 @@
 	<Item Name="Redis Server IP.vi" Type="VI" URL="../Redis Server IP.vi"/>
 	<Item Name="Hashes Example.vi" Type="VI" URL="../Hashes Example.vi"/>
 	<Item Name="Keys Example.vi" Type="VI" URL="../Keys Example.vi"/>
+	<Item Name="Run Hashes.vi" Type="VI" URL="../Run Hashes.vi"/>
+	<Item Name="Server INFO.vi" Type="VI" URL="../Server INFO.vi"/>
 </Library>
